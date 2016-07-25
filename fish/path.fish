@@ -17,6 +17,6 @@ for entry in (string split \n $PATH_DIRS)
     end
 end
 
-set PA $PA /Users/paulirish/.rvm/gems/ruby-2.2.1/bin
+set PA $PA /Users/garycocs/.rvm/gems/ruby-2.2.1/bin
 
 set --export PATH $PA

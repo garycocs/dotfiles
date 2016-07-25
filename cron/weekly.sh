@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-PATH=/Users/paulirish/.homebrew/bin:/Users/paulirish/.homebrew/sbin:/Users/paulirish/code/depot_tools:$PATH
+PATH=/Users/garycocs/.homebrew/bin:/Users/garycocs/.homebrew/sbin:/Users/garycocs/code/depot_tools:$PATH
 
 
 # protocol viewer
